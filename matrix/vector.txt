@@ -1,0 +1,10 @@
+#vector
+#vector
+#vector
+
+vector 5000
+
+1 100
+600 23/5
+7 -5/3
+22 44/1
